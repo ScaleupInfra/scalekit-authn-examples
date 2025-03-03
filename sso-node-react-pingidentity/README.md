@@ -74,6 +74,8 @@ Add the following credentials in the `.env` file:
 SCALEKIT_ENVIRONMENT_URL=
 SCALEKIT_CLIENT_ID=
 SCALEKIT_CLIENT_SECRET=
+SCALEKIT_CONNECTION_ID=
+SCALEKIT_ORGANIZATION_ID=
 ```
 
 ### 2. Install the dependencies and start the servers:
